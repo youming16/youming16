@@ -1,5 +1,5 @@
-I am Passionate about web development, with hands on project experience in both front-end and back-end tech.✨🖥✨
+Hi! I am Youming, a web developer. I enjoy crafting delightful websites. ✨🖥✨ 
 
-Also a 2nd-year bachelor student of Computer Science in USYD✨🏛✨.
+Currently doing Computer Science Bachelor in USYD. ✨🏛✨ 
 
-Besides, I am also good at photgraphing and making coffee✨☕✨
+Also, I am a coffee maker. ✨☕✨
