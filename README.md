@@ -1,9 +1,9 @@
 # About me
 Hi! I am Youming. I enjoy crafting delightful websites. ✨🖥✨ 
 
-Computer Science Bachelor in USYD. ✨🏛✨ 
+2nd-year CS Bachelor in USYD. ✨🏛✨ 
 
-Also, I am a coffee maker. ✨☕✨
+Also a coffee maker. ✨☕✨
 
 # Leetcode
 ![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Monda)
