@@ -6,13 +6,9 @@ Computer Science Bachelor in USYD. ✨🏛✨
 Also, I am a coffee maker. ✨☕✨
 
 # Tech
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youming16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youming16&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
-</div>
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=youming16&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youming16&hide=TeX&layout=compact)
 
 # Stacks
 <div>
