@@ -5,12 +5,9 @@ Computer Science Bachelor in USYD. ✨🏛✨
 
 Also, I am a coffee maker. ✨☕✨
 
-# Tech
-
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=youming16&count_private=true&show_icons=true&include_all_commits=true)
+# Stacks
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youming16&hide=TeX&layout=compact)
 
-# Stacks
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
