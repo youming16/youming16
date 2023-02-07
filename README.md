@@ -6,7 +6,7 @@ Computer Science Bachelor in USYD. ✨🏛✨
 Also, I am a coffee maker. ✨☕✨
 
 # Leetcode
-![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Carrois%20Gothic)
+![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Monda&ext=heatmap)
 
 # Stacks
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youming16&hide=TeX&layout=compact)
