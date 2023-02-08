@@ -28,7 +28,5 @@ Also a coffee maker. ✨☕✨
   &nbsp;
   <img align="center" alt="mysql" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
   &nbsp;
-  <img align="center" alt="bash" width="30" src="https://cdn-icons-png.flaticon.com/512/7560/7560719.png">
-  &nbsp;
   <img align="center" alt="nodejs" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
 </div>
