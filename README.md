@@ -20,8 +20,6 @@ Also a coffee maker. ✨☕✨
   &nbsp;
   <img align="center" alt="Js" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
   &nbsp;
-  <img align="center" alt="bootstrap" width="30" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg">
-  &nbsp;
   <img align="center" alt="React" width="30" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
   &nbsp;
   <img align="center" alt="astro" width="30" src="https://astro.build/assets/press/simple-logomark-light.svg">
