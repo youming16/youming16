@@ -1,9 +1,9 @@
 # About me
-Hi! I am Youming. I enjoy crafting delightful websites. ✨🖥✨ 
+Hi! I am Youming. I enjoy crafting delightful website. ✨🖥✨ 
 
 2nd-year CS Bachelor in USYD. ✨🏛✨ 
 
-Also a coffee maker. ✨☕✨
+Also a photographer. ✨📷✨
 
 # Leetcode
 ![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Monda)
