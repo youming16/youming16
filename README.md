@@ -1,5 +1,5 @@
 # About me
-Hi! I am Youming. I enjoy crafting delightful website. ✨🖥✨ 
+Hi! I am Youming. I enjoy crafting applications. ✨🖥✨ 
 
 2nd-year CS Bachelor in USYD. ✨🏛✨ 
 
