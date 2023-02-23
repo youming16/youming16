@@ -27,5 +27,7 @@ Also a photographer. ✨📷✨
   <img align="center" alt="nodejs" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
   &nbsp;
   <img align="center" alt="docker" width="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
+  &nbsp;
+  <img align="center" alt="docker" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
   
 </div>
