@@ -1,4 +1,4 @@
-## About me
+## About
 Hi! I am Youming. I enjoy crafting applications. ✨🖥✨ 
 
 2nd-year CS Bachelor in USYD. ✨🏛✨ 
