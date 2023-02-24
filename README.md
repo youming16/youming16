@@ -8,7 +8,7 @@ Also a photographer. ✨📷✨
 <!-- # Leetcode
 ![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Monda) -->
 
-## Stacks
+## Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youming16&hide=TeX&layout=compact)
 <br>
 <div>
