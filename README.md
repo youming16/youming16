@@ -1,9 +1,9 @@
 ## About
-Hi! I am Youming. I enjoy crafting applications. ✨🖥✨ 
+Hi there! I am Youming, a software Developer✨🖥✨ 
 
-2nd-year CS Bachelor in USYD. ✨🏛✨ 
+Software Dev undergraduate in USYD✨🏛✨ 
 
-Also a photographer. ✨📷✨
+Also a photographer✨📷✨
 
 <!-- # Leetcode
 ![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Monda) -->
