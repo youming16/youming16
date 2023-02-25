@@ -20,6 +20,8 @@ Also a photographer✨📷✨
   &nbsp;
   <img align="center" alt="Js" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
   &nbsp;
+  <img align="center" alt="Js" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
+  &nbsp; 
   <img align="center" alt="Js" width="30" src="https://cdn-icons-png.flaticon.com/512/875/875209.png">
   
 </div>
