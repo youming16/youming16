@@ -20,14 +20,6 @@ Also a photographer✨📷✨
   &nbsp;
   <img align="center" alt="Js" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
   &nbsp;
-<!--   <img align="center" alt="React" width="30" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
-  &nbsp; -->
-<!--   <img align="center" alt="mysql" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
-  &nbsp; -->
-  <img align="center" alt="nodejs" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
-<!--   &nbsp;
-  <img align="center" alt="docker" width="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
-  &nbsp;
-  <img align="center" alt="python" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"> -->
+  <img align="center" alt="Js" width="30" src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png">
   
 </div>
