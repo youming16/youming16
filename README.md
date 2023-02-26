@@ -1,7 +1,7 @@
 ## About
 Hi there! I am Youming, a software Developer✨🖥✨ 
 
-Software Dev undergraduate in USYD✨🏛✨ 
+Software Dev undergrad in USYD✨🏛✨ 
 
 Also a photographer✨📷✨
 
