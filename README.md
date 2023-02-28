@@ -3,7 +3,7 @@ Hi! I am Youming, I enjoy crafting application with various stacks✨🖥✨
 
 Software Development student in USYD✨🏛✨ 
 
-Also a photographer✨📷✨
+Also a blogger✨📷✨
 
 <!-- # Leetcode
 ![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Monda) -->
