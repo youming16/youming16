@@ -1,5 +1,5 @@
 ## About
-Hi! I am Youming, I enjoy crafting application with various stacks✨🖥✨ 
+Hi! I am Eric, I enjoy crafting application with various stacks✨🖥✨ 
 
 Software Development student in USYD✨🏛✨ 
 
