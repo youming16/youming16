@@ -1,9 +1,9 @@
 ## About
-Hi! I am Eric, I enjoy crafting delightful website✨🖥✨ 
+Hi! I am Eric, I enjoy crafting delightful websites with React and Astro ✨🖥✨ 
 
-***Software Development*** bachelor in USYD✨🏛✨ 
+***Software Development*** bachelor in USYD ✨🏛✨ 
 
-Also a *Medium blogger*✨🖋✨
+Also a *Medium blogger* ✨🖋✨
 
 <!-- # Leetcode
 ![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Monda) -->
