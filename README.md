@@ -1,7 +1,7 @@
 ## About
-Hi! I am Eric, I enjoy crafting delightful websites with React and Astro ✨🖥✨ 
+Hi! I am Eric, I enjoy crafting delightful websites with *React* and *Astro* ✨🖥✨ 
 
-***Software Development*** bachelor in USYD ✨🏛✨ 
+***Software Development*** bachelor in *USYD* ✨🏛✨ 
 
 Also a *Medium blogger* ✨🖋✨
 
