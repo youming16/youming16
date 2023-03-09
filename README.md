@@ -1,7 +1,7 @@
 ## About
 Hi! I am Eric, I enjoy crafting application with various stacks✨🖥✨ 
 
-***Software Development*** student in USYD✨🏛✨ 
+***Software Development*** bachelor in USYD✨🏛✨ 
 
 Also a *Medium blogger*✨🖋✨
 
