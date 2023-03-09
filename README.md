@@ -1,5 +1,5 @@
 ## About
-Hi! I am Eric, I enjoy crafting application with various stacks✨🖥✨ 
+Hi! I am Eric, I enjoy crafting delightful website✨🖥✨ 
 
 ***Software Development*** bachelor in USYD✨🏛✨ 
 
