@@ -1,9 +1,9 @@
 ## About
 Hi! I am Eric, I enjoy crafting application with various stacks✨🖥✨ 
 
-Software Development student in USYD✨🏛✨ 
+***Software Development*** student in USYD✨🏛✨ 
 
-Also a Medium blogger✨🖋✨
+Also a *Medium blogger*✨🖋✨
 
 <!-- # Leetcode
 ![Leetcode](https://leetcard.jacoblin.cool/youming16?theme=light&font=Monda) -->
