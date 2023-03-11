@@ -2,13 +2,13 @@
 
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@eric-tan-16)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/youming2002/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/austincondiff)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_tan16/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-tan-sydney/)
 
 
-## 👋 Howdy! 
+## 👋 Halo!
 
-I'm Eric, a computer science student focuses on front-end development. My goal is to make beautiful designs that focus on the user and turn them into pixel-perfect, high-performing websites or apps. I try to write code that is scalable, easy to maintain, and easy to read with future developers in mind.
+I'm Eric, a Computer Science student focuses on front-end development. My goal is to make beautiful designs that focus on the user and turn them into pixel-perfect, high-performing websites or apps. I try to write code that is scalable, easy to maintain, and easy to read with future developers in mind.
 
 Want to know more about me? [Check out my portfolio.](https://youming16.github.io)
 
