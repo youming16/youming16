@@ -8,7 +8,7 @@
 
 ## 👋 Halo!
 
-I'm Eric, a Computer Science student focuses on front-end development. My goal is to make beautiful designs that focus on the user and turn them into pixel-perfect, high-performing websites or apps. I try to write code that is scalable, easy to maintain, and easy to read with future developers in mind.
+I'm Eric, a Computer Science student focuses on front-end development. My goal is to craft delightful designs that focus on user and turn them into pixel-perfect, high-performing websites or apps. I try to write code that is scalable, easy to maintain and read with future developers in mind.
 
 
 Want to know more about me? [Check out my portfolio.](https://youming16.github.io)
