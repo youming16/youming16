@@ -21,12 +21,15 @@ Want to know more about me? [Check out my portfolio.](https://youming16.github.i
 [![](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=HTML5&logoColor=white)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 [![](https://img.shields.io/badge/Python-f6ea04?style=for-the-badge&logo=Python&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=oracle&logoColor=white)](https://vercel.com/)
 [![](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=Astro&logoColor=white)](https://www.astro.com/)
+
 
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://vercel.com/)
+
 
 ### Tools
 
