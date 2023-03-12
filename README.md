@@ -30,22 +30,23 @@ Want to know more about me? [Check out my portfolio.](https://youming16.github.i
 
 ### Tools
 
-<!-- [![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
+
+<!-- [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
 [![](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)](https://babeljs.io/)
 [![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/) -->
 
 <!-- [![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)
 [![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) -->
 <!-- [![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/) -->
 
 [![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/Obsidian-9437ff?style=for-the-badge&logo=obsidian&logoColor=white)](https://www.figma.com/)
-[![](https://img.shields.io/badge/Linear-535ed6?style=for-the-badge&logo=linear&logoColor=white)](https://www.figma.com/)
+[![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 
+[![](https://img.shields.io/badge/Obsidian-9437ff?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![](https://img.shields.io/badge/Linear-535ed6?style=for-the-badge&logo=linear&logoColor=white)](https://www.figma.com/)
 
 ## 🎾 Stats
 
