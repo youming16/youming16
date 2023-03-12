@@ -1,4 +1,4 @@
-![Eric's GitHub Profile Header](https://github.com/youming16/uPic/blob/main/Background/cibli.jpg?raw=true)
+![Eric's GitHub Profile Header](https://github.com/youming16/uPic/blob/main/Background/howl.jpeg?raw=true)
 
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@eric-tan-16)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/youming2002/)
@@ -17,8 +17,8 @@ Want to know more about me? [Check out my portfolio.](https://youming16.github.i
 ### Code
 
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/HTML-526bee?style=for-the-badge&logo=HTML5)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[![](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=HTML5&logoColor=white)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 [![](https://img.shields.io/badge/Python-f6ea04?style=for-the-badge&logo=Python&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=Astro&logoColor=white)](https://www.astro.com/)
 
