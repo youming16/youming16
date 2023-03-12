@@ -1,4 +1,4 @@
-[![Eric's GitHub Profile Header](https://github.com/youming16/uPic/blob/main/Background/cibli.jpg?raw=true)
+![Eric's GitHub Profile Header](https://github.com/youming16/uPic/blob/main/Background/cibli.jpg?raw=true)
 
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@eric-tan-16)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/youming2002/)
@@ -20,6 +20,7 @@ Want to know more about me? [Check out my portfolio.](https://youming16.github.i
 [![](https://img.shields.io/badge/HTML-526bee?style=for-the-badge&logo=HTML5)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 [![](https://img.shields.io/badge/Python-f6ea04?style=for-the-badge&logo=Python&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=Astro&logoColor=white)](https://www.astro.com/)
 
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
