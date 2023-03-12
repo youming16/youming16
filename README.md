@@ -10,6 +10,7 @@
 
 I'm Eric, a Computer Science student focuses on front-end development. My goal is to make beautiful designs that focus on the user and turn them into pixel-perfect, high-performing websites or apps. I try to write code that is scalable, easy to maintain, and easy to read with future developers in mind.
 
+
 Want to know more about me? [Check out my portfolio.](https://youming16.github.io)
 
 ## 💪🏻 Skills
@@ -39,6 +40,8 @@ Want to know more about me? [Check out my portfolio.](https://youming16.github.i
 [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) -->
 <!-- [![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/) -->
+
+[![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Obsidian-9437ff?style=for-the-badge&logo=obsidian&logoColor=white)](https://www.figma.com/)
 [![](https://img.shields.io/badge/Linear-535ed6?style=for-the-badge&logo=linear&logoColor=white)](https://www.figma.com/)
