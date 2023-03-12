@@ -1,4 +1,4 @@
-[![Eric's GitHub Profile Header](https://user-images.githubusercontent.com/806104/208268622-1a5cfc84-a5b3-48a4-aa07-aa7521c9a476.png)](https://austincondiff.com)
+[![Eric's GitHub Profile Header](https://github.com/youming16/uPic/blob/main/Background/cibli.jpg?raw=true)
 
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@eric-tan-16)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/youming2002/)
@@ -51,5 +51,5 @@ Want to know more about me? [Check out my portfolio.](https://youming16.github.i
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youming16)](https://github.com/youming16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youming16&layout=compact)](https://github.com/youming16/github-readme-stats)
  
