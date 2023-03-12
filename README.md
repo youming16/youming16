@@ -46,11 +46,8 @@ Want to know more about me? [Check out my portfolio.](https://youming16.github.i
 [![](https://img.shields.io/badge/Obsidian-9437ff?style=for-the-badge&logo=obsidian&logoColor=white)](https://www.figma.com/)
 [![](https://img.shields.io/badge/Linear-535ed6?style=for-the-badge&logo=linear&logoColor=white)](https://www.figma.com/)
 
-### Database
 
-
-
-## 🤓 Stats
+## 🎾 Stats
 
 <br>
 
